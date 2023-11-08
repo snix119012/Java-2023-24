@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-2023-2024.iml" filepath="$PROJECT_DIR$/Java-2023-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeapYear.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LeapYear.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeapYear.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LeapYear.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeSimulator.iml" filepath="$PROJECT_DIR$/LifeSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LifeSimulator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LifeSimulator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LifeSimulator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LifeSimulator.test.iml" />
+    </modules>
+  </component>
+</project>

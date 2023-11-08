@@ -1,2 +1,8 @@
 /Java-2023-2024.iml
-/.idea/
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/libraries/
